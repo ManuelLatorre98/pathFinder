@@ -1,5 +1,5 @@
 ## Planificador de caminos para robot autonomo
-- La planificacion se realiza con el algoritmo A* con una heruistica Manhattan.
+- La planificacion se realiza con el algoritmo A* con una heuristica Manhattan.
 - Esta hecho todo con python, use jupyter notes para tener mayor flexibilidad y poder hacer el desarrollo mas incremental.
 - Cada casilla representa una ubicacion en el espacio, el vehiculo (ODOR) tiene la capacidad de ubicarse en el espacio detectando codigos QR con una camara.
 - Las casillas verdes de riesgo son utilizadas para darle un margen de seguridad al ODOR y que no se choque con paredes u obstaculos, obviamente hay 
